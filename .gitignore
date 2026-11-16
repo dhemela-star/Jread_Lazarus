@@ -1,0 +1,14 @@
+lib/
+backup/
+*.o
+*.ppu
+*.a
+*.compiled
+*.lps
+*.bak
+*.exe
+*.dll
+*.rsj
+*.~*
+Jread_data/
+test_data/
